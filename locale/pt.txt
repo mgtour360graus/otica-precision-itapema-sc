@@ -1,0 +1,91 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_E654195E_F6EB_C2FF_41EE_606BE5FD3C7F.source = https://api.whatsapp.com/send?phone=+5547991102867&text=Ol%C3%A1+%2C+vim+atrav%C3%A9s+do+Instagram+quero+saber+mais+sobre+o+produto+de+voc%C3%AAs+%21%F0%9F%98%83
+LinkBehaviour_C3D752FB_E4F0_537F_41D2_196A905B4CEB.source = https://api.whatsapp.com/send?phone=+5547991102867&text=Ol%C3%A1+%2C+vim+atrav%C3%A9s+do+Instagram+quero+saber+mais+sobre+o+produto+de+voc%C3%AAs+%21%F0%9F%98%83
+LinkBehaviour_F93B96E6_F6DF_CFCC_41DF_4FA815582853.source = https://api.whatsapp.com/send?phone=+5547991102867&text=Ol%C3%A1+%2C+vim+atrav%C3%A9s+do+Instagram+quero+saber+mais+sobre+o+produto+de+voc%C3%AAs+%21%F0%9F%98%83
+LinkBehaviour_C3D60321_E4F3_B28B_41E0_6694DB0528AB.source = https://api.whatsapp.com/send?phone=+5547991102867&text=Ol%C3%A1+%2C+vim+atrav%C3%A9s+do+Instagram+quero+saber+mais+sobre+o+produto+de+voc%C3%AAs+%21%F0%9F%98%83
+LinkBehaviour_E65DDA13_F6EE_C646_41BE_57BDBD3FE26E.source = https://api.whatsapp.com/send?phone=+5547991102867&text=Ol%C3%A1+%2C+vim+atrav%C3%A9s+do+Instagram+quero+saber+mais+sobre+o+produto+de+voc%C3%AAs+%21%F0%9F%98%83
+LinkBehaviour_CCBE9D9A_E4F1_F1B9_41EA_2470451CB540.source = https://api.whatsapp.com/send?phone=+5547991102867&text=Ol%C3%A1+%2C+vim+atrav%C3%A9s+do+Instagram+quero+saber+mais+sobre+o+produto+de+voc%C3%AAs+%21%F0%9F%98%83
+LinkBehaviour_C744F8D3_E317_DF8F_41D6_333DA5836D8F.source = https://g.page/r/CWec8gWEE4LyEBM/review
+LinkBehaviour_6A8237A8_7C01_697A_41DA_77BE9239DC03.source = https://maps.app.goo.gl/BPReZgXzJnfiARBX8
+LinkBehaviour_FDABF805_E313_BE88_41D9_0173661AEB3B.source = https://maps.app.goo.gl/BPReZgXzJnfiARBX8
+LinkBehaviour_E61F4E3A_F6EF_5E46_41E6_2E1CF1CCDA9C.source = https://maps.app.goo.gl/BPReZgXzJnfiARBX8
+LinkBehaviour_F93A66E7_F6DF_CFCC_41E4_9257B3BD4BFF.source = https://maps.app.goo.gl/BPReZgXzJnfiARBX8
+LinkBehaviour_E80F8CDB_F83E_5756_41D8_88AB48D4CCE5.source = https://mgtour360.com.br/
+LinkBehaviour_E655995E_F6EB_C2FE_41E9_24FE2245BA2E.source = https://search.google.com/local/writereview?placeid=ChIJ7fWeqLWx2JQRtiuEUE3S174
+LinkBehaviour_C2854CCD_E4F0_D79A_41E3_E37F06D37E3B.source = https://search.google.com/local/writereview?placeid=ChIJ7fWeqLWx2JQRtiuEUE3S174
+LinkBehaviour_C3ECBEB4_E4F0_738A_41CC_AC9F0880ED1E.source = https://search.google.com/local/writereview?placeid=ChIJ7fWeqLWx2JQRtiuEUE3S174
+LinkBehaviour_FCFBB6AC_E310_5398_41DF_E7196D467689.source = https://velolink.com.br/papersbeach
+LinkBehaviour_F90486E4_F6DF_CFCC_41ED_34A7686D68E2.source = https://www.cervejariacolorado.com.br/
+LinkBehaviour_6B068F95_7C07_192A_41C1_C3325AA72B65.source = https://www.cervejariacolorado.com.br/
+LinkBehaviour_F93BD6E6_F6DF_CFCC_41BC_AB25696F1285.source = https://www.instagram.com/oticaprecision_itapema/
+LinkBehaviour_F310689E_E310_5E67_41E0_3EBE39DB8BA2.source = https://www.instagram.com/oticaprecision_itapema/
+LinkBehaviour_6AA31B8D_7C1F_393B_41D3_16FBC550D870.source = https://www.instagram.com/oticaprecision_itapema/
+LinkBehaviour_E6234233_F6EF_4646_41E8_A5512D67C5AE.source = https://www.instagram.com/oticaprecision_itapema/
+
+## Media
+
+### Audio
+audiores_E380CBA2_F736_C675_41E6_9A58830D168A.mp3Url = media/audio_E20E386C_F739_42CD_41E8_6F02C92181CF_pt.mp3
+audiores_E3876B0C_F736_C64D_41E6_CB58C774674A.mp3Url = media/audio_E2317948_F72B_42C8_41B6_BEE39CC2F091_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_FF242721_F3B3_3C7E_41D4_3B92E315CE92.label = IMG_3846 Panorama
+panorama_F8A63193_F3B3_1442_41EA_855DB2733F5C.label = IMG_3854 Panorama
+panorama_F8A1BB13_F3B3_1441_41CD_AEBB5ED1CC1C.label = IMG_3861 Panorama
+panorama_F8A1E3D8_F3B3_7BCE_41EA_18D35BC35CF8.label = IMG_3868 Panorama
+panorama_F8A11D9C_F3B3_0C47_41D3_A7FBA49DF287.label = IMG_3875 Panorama
+panorama_F8BEB618_F3B3_1C4F_41E7_D06DCD5AD3AD.label = IMG_3883 Panorama
+
+## Right Click Menu
+
+### Text
+menuItem_E8AAB50F_F83A_D6CF_41C7_02B5BFCB4975.label = DESENVOLVIDO POR  MG TOUR 360°
+
+## Skin
+
+### Button
+Button_FDAA3804_E313_BE88_41CB_6E2E97FAC360.label = COMO CHEGAR
+Button_FDAA3804_E313_BE88_41CB_6E2E97FAC360_mobile.label = COMO CHEGAR
+Button_6C1AE403_7C03_7954_41C9_486B58E61A2F.label = Clique aqui para mais informações 
+Button_6C1AE403_7C03_7954_41C9_486B58E61A2F_mobile.label = Clique aqui para mais informações 
+Button_76BA8DFE_79A3_2597_41BE_B76B714DF812_mobile.label = Dê sua nota no Google
+Button_76BA8DFE_79A3_2597_41BE_B76B714DF812.label = Dê sua nota no Google
+Button_FB55027E_E331_B378_41EB_F49CBD998544_mobile.label = Entre em Contato
+Button_FB55027E_E331_B378_41EB_F49CBD998544.label = Entre em Contato
+Button_F312B89D_E310_5E65_41E0_9FA81D3D050E.label = INSTAGRAM
+Button_F312B89D_E310_5E65_41E0_9FA81D3D050E_mobile.label = INSTAGRAM
+Button_F3387D60_E310_56DA_41DA_4511C8C773CB.label = TOUR VIRTUAL 360º
+Button_F3387D60_E310_56DA_41DA_4511C8C773CB_mobile.label = TOUR VIRTUAL 360º
+Button_ECD97E5C_E310_B2E8_41E5_DC53AB051E64.label = WHATSAPP
+Button_ECD97E5C_E310_B2E8_41E5_DC53AB051E64_mobile.label = WHATSAPP
+
+### Image
+Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_mobile_pt.png
+Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C.url = skin/Image_6986F02F_7BA7_3AB4_41DD_9DC47894E57C_pt.png
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile_pt.jpg
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_pt.jpg
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile_pt.png
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_pt.png
+
+### Tooltip
+IconButton_7710E806_79A6_EA77_41C1_9744412BB2CB.toolTip = CARDÁPIO
+IconButton_C2919223_E377_B28F_41E2_3119E2649E33_mobile.toolTip = CARDÁPIO
+IconButton_7712A7B7_79A5_2595_41D9_B715E90A51D4_mobile.toolTip = COMO CHEGAR
+IconButton_7712A7B7_79A5_2595_41D9_B715E90A51D4.toolTip = COMO CHEGAR
+IconButton_7785B5CE_79A5_65F7_41D8_50043C11A7B3_mobile.toolTip = INSTAGRAM
+IconButton_7785B5CE_79A5_65F7_41D8_50043C11A7B3.toolTip = INSTAGRAM
+IconButton_C2919223_E377_B28F_41E2_3119E2649E33.toolTip = WHATSAPP
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360º
+
+### Title
+tour.name = Ótica Precision - Itapema
